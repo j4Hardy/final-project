@@ -728,6 +728,86 @@ f f f f f f f f f f . . . . . .
 . . 2 2 2 2 2 2 2 2 2 2 . . . . 
 . . . . . . . . . . . . . . . . 
 `;
+            case "image18":
+            case "myImage16":return img`
+......eeeeeeeee...........
+.....e222222222eee........
+...ee22222222222eeee......
+.eebb4222222222499ee......
+ebb99422222224449999eee...
+e9999422222444449999222ee.
+e999924444444442999922222e
+e9999eeeeeeeeeee999922222e
+e99bbebbeebbbbbebb9922222e
+e99bbebbeebbbbbebb9922222e
+ebbeebbbeebbbbbbeeeeeee22e
+eeeee222ee222222eeee333eee
+eeeeeeeeeeeeeeeeeeeee3333e
+eeeeeeeeeeeeeeeeeeeeeeeeee
+eeefffffeeeeeeefffffeeeeee
+.ffcccbbffeeeffcccbbfeeee.
+...ffbbb.......fbbbb......
+`;
+            case "image19":
+            case "myImage17":return img`
+......eeeeeeeee...........
+.....e222222222eee........
+...ee22222222222eeee......
+.eebb4222224444499ee......
+ebb99422224444449999eee...
+e9999422444444449999222ee.
+e999924444444442999922222e
+e9999eeeeeeeeeee999922222e
+e99bbebbeebbbbbebb9922222e
+e99bbebbeebbbbbebb9922222e
+ebbeebbbeebbbbbbeeeeeee22e
+eeeee222ee222222eeee333eee
+eeeeeeeeeeeeeeeeeeeee3333e
+eeeeeeeeeeeeeeeeeeeeeeeeee
+eeefffffeeeeeeefffffeeeeee
+.ffbbfffffeeeffbfffffeeee.
+...bbbcc.......bbbcc......
+`;
+            case "image20":
+            case "myImage18":return img`
+......eeeeeeeee...........
+.....e222222222eee........
+...ee22222222222eeee......
+.eebb4444422222499ee......
+ebb99444442222249999eee...
+e9999444222224449999222ee.
+e999924444444442999922222e
+e9999eeeeeeeeeee999922222e
+e99bbebbeebbbbbebb9922222e
+e99bbebbeebbbbbebb9922222e
+ebbeebbbeebbbbbbeeeeeee22e
+eeeee222ee222222eeee333eee
+eeeeeeeeeeeeeeeeeeeee3333e
+eeeeeeeeeeeeeeeeeeeeeeeeee
+eeefffffeeeeeeefffffeeeeee
+.ffbbbccffeeeffbbbccfeeee.
+...fffff.......fffff......
+`;
+            case "image21":
+            case "myImage19":return img`
+......eeeeeeeee...........
+.....e222222222eee........
+...ee22222222222eeee......
+.eebb4222222222499ee......
+ebb99422222222249999eee...
+e9999422222224449999222ee.
+e999924444444442999922222e
+e9999eeeeeeeeeee999922222e
+e99bbebbeebbbbbebb9922222e
+e99bbebbeebbbbbebb9922222e
+ebbeebbbeebbbbbbeeeeeee22e
+eeeee222ee222222eeee333eee
+eeeeeeeeeeeeeeeeeeeee3333e
+eeeeeeeeeeeeeeeeeeeeeeeeee
+eeefffffeeeeeeefffffeeeeee
+.ffccbbbffeeeffcbbbbfeeee.
+...fffcc.......fffcc......
+`;
         }
         return null;
     })

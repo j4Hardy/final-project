@@ -84,6 +84,26 @@
         "mimeType": "image/x-mkcd-f4",
         "displayName": "myImage15"
     },
+    "image18": {
+        "data": "hwQaABEAAAAAAO7u7u7uDgAAAAAA4JuZmevu/gAAAAAA4JuZmevu/gAAAAAAvpmZu+7uzw8AAAAAvpmZu+7uzw8AAADgQkTi7ivuzwsAAAAuIiLkuyvuvwsAAAAuIiLkuyvuvwsAAAAuIiLk7u7u/gAAAAAuIiLk7u7u/gAAAAAuIiLkuyvu7gAAAAAuIkLkuyvu7gAAAAAuIkLkuyvu7gAAAAAuIkTkuyvu/gAAAAAuIkTkuyvu/gAAAADgQkTi7ivuzw8AAADgnpmZu+7uzwsAAADgnpmZu+7uzwsAAAAA7pmZme7uvwsAAAAA7pmZme7uvwsAAAAAAC4iIj7u/gAAAAAAAC4iIj7j7gAAAAAAAC4iIj7j7gAAAAAAAOAiIuLj7gAAAAAAAOAiIuLj7gAAAAAAAADu7u7uDgAAAAA=",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "myImage16"
+    },
+    "image19": {
+        "data": "hwQaABEAAAAAAO7u7u7uDgAAAAAA4JuZmevu/gAAAAAA4JuZmevu/gAAAAAAvpmZu+7uvwsAAAAAvpmZu+7uvwsAAADgQkTi7ivu/wsAAAAuIiLkuyvu/wwAAAAuIiLkuyvu/wwAAAAuIkLk7u7u/gAAAAAuIkLk7u7u/gAAAAAuIkTkuyvu7gAAAAAuQkTkuyvu7gAAAAAuQkTkuyvu7gAAAAAuQkTkuyvu/gAAAAAuQkTkuyvu/gAAAADgQkTi7ivuvwsAAADgnpmZu+7u/wsAAADgnpmZu+7u/wsAAAAA7pmZme7u/wwAAAAA7pmZme7u/wwAAAAAAC4iIj7u/gAAAAAAAC4iIj7j7gAAAAAAAC4iIj7j7gAAAAAAAOAiIuLj7gAAAAAAAOAiIuLj7gAAAAAAAADu7u7uDgAAAAA=",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "myImage17"
+    },
+    "image20": {
+        "data": "hwQaABEAAAAAAO7u7u7uDgAAAAAA4JuZmevu/gAAAAAA4JuZmevu/gAAAAAAvpmZu+7uvw8AAAAAvpmZu+7uvw8AAADgQkTi7ivuvw8AAAAuQkTkuyvuzw8AAAAuQkTkuyvuzw8AAAAuQiTk7u7u/gAAAAAuQiTk7u7u/gAAAAAuIiLkuyvu7gAAAAAuIiLkuyvu7gAAAAAuIiLkuyvu7gAAAAAuIkLkuyvu/gAAAAAuIkLkuyvu/gAAAADgQkTi7ivuvw8AAADgnpmZu+7uvw8AAADgnpmZu+7uvw8AAAAA7pmZme7uzw8AAAAA7pmZme7uzw8AAAAAAC4iIj7u/gAAAAAAAC4iIj7j7gAAAAAAAC4iIj7j7gAAAAAAAOAiIuLj7gAAAAAAAOAiIuLj7gAAAAAAAADu7u7uDgAAAAA=",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "myImage18"
+    },
+    "image21": {
+        "data": "hwQaABEAAAAAAO7u7u7uDgAAAAAA4JuZmevu/gAAAAAA4JuZmevu/gAAAAAAvpmZu+7uzw8AAAAAvpmZu+7uzw8AAADgQkTi7ivuvw8AAAAuIiLkuyvuvwwAAAAuIiLkuyvuvwwAAAAuIiLk7u7u/gAAAAAuIiLk7u7u/gAAAAAuIiLkuyvu7gAAAAAuIiLkuyvu7gAAAAAuIiLkuyvu7gAAAAAuIkLkuyvu/gAAAAAuIkLkuyvu/gAAAADgQkTi7ivuzw8AAADgnpmZu+7uvw8AAADgnpmZu+7uvw8AAAAA7pmZme7uvwwAAAAA7pmZme7uvwwAAAAAAC4iIj7u/gAAAAAAAC4iIj7j7gAAAAAAAC4iIj7j7gAAAAAAAOAiIuLj7gAAAAAAAOAiIuLj7gAAAAAAAADu7u7uDgAAAAA=",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "myImage19"
+    },
     "anim1": {
         "namespace": "myAnimations",
         "id": "anim1",
