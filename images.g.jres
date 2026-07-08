@@ -104,6 +104,11 @@
         "mimeType": "image/x-mkcd-f4",
         "displayName": "myImage19"
     },
+    "image22": {
+        "data": "hwQoABkAAAAAAADu7u7u7u7u7gAAAAAAAADum5mZmbnu7u7/AAAAAAAA7puZmZm57u7u/wAAAAAAAO6bmZmZue7u7v8AAAAAAOC7mZmZu+vu7v7MDwAAAADgu5mZmbvr7u7+zA8AAAAA4LuZmZm76+7u/swPAAAA4C5ERCTu7r4i7v7MCwAAAOAuREQk7u6+Iu7+zAsAAAAuIiIiQu67uyLu/rsLAAAALiIiIkLuu7si7v67CwAAAC4iIiJC7ru7Iu7+uwsAAAAuIiIiQu7u7u7u7v8AAAAALiIiIkLu7u7u7u7/AAAAAC4iIiJC7u7u7u7u/wAAAAAuIiIiQu67uyLu7u4AAAAALiIiIkLuu7si7u7uAAAAAC4iIkJE7ru7Iu7u7gAAAAAuIiJCRO67uyLu7u4AAAAALiIiQkTuu7si7u7uAAAAAC4iIkRE7ru7Iu7u/wAAAAAuIiJERO67uyLu7v8AAAAALiIiRETuu7si7u7/AAAAAOAuREQk7u6+Iu7+zA8AAADgLkREJO7uviLu/swPAAAA4O6ZmZmZu+vu7v7MCwAAAODumZmZmbvr7u7+zAsAAADg7pmZmZm76+7u/swLAAAAAODumZmZmenu7v67CwAAAADg7pmZmZnp7u7+uwsAAAAA4O6ZmZmZ6e7u/rsLAAAAAAAALiIiIuIz7u7/AAAAAAAAACIiIiLiM+7u/wAAAAAAACAiIiIi7TPj7u4AAAAAAAAiIiIi0u0z4+7uAAAAAAAgIiIiIr/rM+Pu7gAAAAAAIiIiItL/3e7j7u4AAAAAACAiIiK7/73u4+7uAAAAAAAAIiLSu//b7uPu7gAAAAAAACAiAODu7u7u7gAAAAAA",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Hood up"
+    },
     "anim1": {
         "namespace": "myAnimations",
         "id": "anim1",

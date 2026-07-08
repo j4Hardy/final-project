@@ -808,6 +808,34 @@ eeefffffeeeeeeefffffeeeeee
 .ffccbbbffeeeffcbbbbfeeee.
 ...fffcc.......fffcc......
 `;
+            case "image22":
+            case "Hood up":return img`
+.........eeeeeeeeeeeeee.................
+.......ee22222222222222eeeee............
+.......ee22222222222222eeeee........2...
+....eee222222222222222222eeeeee....222..
+.eeebbb442222222222222244999eee...22222.
+.eeebbb442222222222222244999eee..2222222
+ebbb999442222222222244444999999e22222222
+e999999442222222244444444999999222222222
+e99999944222222224444444499999922222222.
+e9999992244444444444444229999992222222d.
+e999999eeeeeeeeeeeeeeeeee999999222222bb.
+e999999eeeeeeeeeeeeeeeeee99999922222dbbe
+e999bbbeebbbeeebbbbbbbbeebbb9992222ffffe
+e999bbbeebbbeeebbbbbbbbeebbb999222dbfffe
+e999bbbeebbbeeebbbbbbbbeebbb99922ddbddbe
+ebbbeeebbbbbeeebbbbbbbbbbeeeeeeeeeeedbde
+eeeeeee22222eee2222222222eeeeee33333eeee
+eeeeeee22222eee2222222222eeeeee33333eeee
+eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee333333e
+eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+eeeeffffffffeeeeeeeeeeeffffffffeeeeeeeee
+.fffcccccbbbfffeeeeefffcccccbbbffeeeeee.
+.fffcccccbbbfffeeeeefffcccccbbbffeeeeee.
+....fffbbbbb...........ffbbbbbb.........
+`;
         }
         return null;
     })
